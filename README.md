@@ -17,3 +17,6 @@ a task, training on it, and moving the initialization towards the trained weight
 We expand on the results from Finn et al. showing that first-order meta-learning algorithms
 perform well on some well-established benchmarks for few-shot classification, and we provide
 theoretical analysis aimed at understanding why these algorithms work.
+
+
+![Capture](https://user-images.githubusercontent.com/25025173/80688197-6774e480-8b06-11ea-9e95-728ed2647a83.PNG)
