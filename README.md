@@ -70,7 +70,9 @@ Inspired by [How to Train Your MAML](https://arxiv.org/pdf/1810.09502), This Bel
 
 ---
 
-## Getting Started
+## Usage
+
+### Getting Started
 
 Install the required dependencies with:
 
@@ -78,27 +80,15 @@ Install the required dependencies with:
 pip install -r requirements.txt
 ```
 
-## Usage
-
 ### Running Experiments
 
-You can run experiments on the Sinusoid dataset using the provided scripts. Examples include training and testing different algorithms:
+You can run experiments on the Sinusoid dataset using the provided python notebook.
 
+### For Other Task
 
-### Visualizing Performance
-
-To better understand the effects of Meta-Curvature and LSLR, use the included visualization tools:
-
-```bash
-python examples/plot_results.py
-```
-
-### Customizing Configurations
-
-Modify the parameters (e.g., inner-loop iterations, learning rates) directly in the respective scripts or modules to customize experiments. The `MAMLEnhanced` class provides additional functionality for fine-tuning the meta-learning process.
+This script might or might not suitable with your use case so please modify each method script to cater your needs.
 
 ---
-
 ## Future Work
 
 - Support for additional datasets and tasks.
