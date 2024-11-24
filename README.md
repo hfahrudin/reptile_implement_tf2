@@ -14,7 +14,7 @@ These implementations have been tested primarily on the **Sinusoid dataset**, a 
 
 ## What is Meta-Learning?
 
-Meta-learning, often referred to as "learning to learn," is a subfield of machine learning that focuses on enabling models to adapt quickly to new tasks using limited data. Unlike traditional learning methods, which train a model to perform a single task, meta-learning trains a model to develop a generalized strategy that works across a variety of tasks. This approach is particularly useful in scenarios where data is scarce or tasks are highly diverse.
+Meta-learning often referred to as "learning to learn," is a subfield of machine learning that focuses on enabling models to adapt quickly to new tasks using limited data. Unlike traditional learning methods, which train a model to perform a single task meta-learning trains a model to develop a generalized strategy that works across a variety of tasks. This approach is particularly useful in scenarios where data is scarce or tasks are highly diverse.
 
 ---
 
